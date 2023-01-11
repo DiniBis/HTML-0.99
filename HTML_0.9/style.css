@@ -1,0 +1,76 @@
+html {
+    scroll-behavior: smooth;
+}
+
+
+h1
+{
+
+  color: lightblue;
+  border: solid 1px ghostwhite;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family:fantasy;
+
+}
+
+img
+{
+  border-radius: 20px;
+
+}
+
+
+h2
+{
+
+  color: lightcoral;
+  font-family:fantasy;
+
+}
+
+
+
+
+
+a 
+{
+  color: goldenrod;
+}
+
+a:hover {
+  background-color: lightblue;
+}
+
+h1:hover {
+  background-color: blue;
+  cursor: wait;
+}
+
+body
+{
+
+  background-color: palegreen;
+
+}
+
+
+
+
+#carte
+{
+border-radius: 20px;
+border: solid 2px ghostwhite;
+width: 1000px;
+
+margin:0 auto;
+
+background-color: white;
+
+text-align: center;
+
+align-content: center;
+
+}
+
+img 
